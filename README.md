@@ -2,7 +2,7 @@
 <h1 align="center">😄 Oi , Meu nome é Mateus Aniceto!</h1>
 <h3 align="center">Sou estudante do curso de Análise e Desenvolvimento de Sistemas da FATEC, e entusiasta do Front End!</h3>
 
-<p align="center">Estudo desenvolvimento web de forma autodidata há um ano e meio, e atualmente estou aprendendo a linguagem JAVA para adquirir conhecimento em trabalhar com o backend e banco de dados. </p>
+<p align="center">Estudo desenvolvimento web de forma autodidata há um ano e meio, tenho dominio sobre o uso de HTML/CSS e conhecimento intermediário em Javascript Vanilla. Atualmente estou aprendendo a linguagem JAVA para adquirir conhecimento em trabalhar com desenvolvimento backend e banco de dados. </p>
 
 - 👨‍💻 Meu site portfólio: [https://mateusanic.github.io/](https://mateusanic.github.io/)
 
