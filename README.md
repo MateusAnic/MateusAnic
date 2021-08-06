@@ -1,6 +1,6 @@
 
 <h1 align="center">😄 Oi , meu nome é Mateus!</h1>
-<h3 align="center">Sou estudante do curso de Análise e Desenvolvimento de Sistemas da FATEC, e entusiasta da área de análise de dados e desenvolvimento Front End!</h3>
+<h3 align="center">Sou estudante do curso de Análise e Desenvolvimento de Sistemas da FATEC, e entusiasta das áreas de análise de dados e desenvolvimento Front End!</h3>
 
 <p align="center">Estudo desenvolvimento web de forma autodidata há um ano e meio, tenho dominio sobre o uso de HTML/CSS e conhecimento intermediário em Javascript Vanilla. Atualmente estou aprendendo a linguagem JAVA para adquirir conhecimento em trabalhar com desenvolvimento backend e banco de dados. </p>
 
