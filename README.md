@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateus Aniceto</h1>
 <h3 align="center">I'm a curious and creativy Front-End Developer and UI Designer</h3>
+<img alt="Coding" width="400" align="right" src="https://c4.wallpaperflare.com/wallpaper/684/129/282/cats-cat-wallpaper-preview.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusanic&label=Profile%20views&color=0e75b6&style=flat" alt="mateusanic" /> </p>
 
