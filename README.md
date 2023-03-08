@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **VueJs**
 
-- 💬 Ask me about **Javascript, Typescript, C#, Python, React, Redux and Jest**
+- 💬 Ask me about **Javascript, Typescript, C#, PHP, Python, React, Redux and Jest**
 
 - 📫 How to reach me **mateuslaniceto@gmail.com**
 
